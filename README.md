@@ -4,7 +4,7 @@ URL: https://frontend-project-11-naaavi.vercel.app
 
 ## About
 
-Frontend Developer. Project #3 in Hexlet Frontend Developer Profession
+Agregate and read RSS. Project #3 in Hexlet Frontend Developer Profession
 
 ### Hexlet tests and linter status:
 
