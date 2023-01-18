@@ -1,6 +1,6 @@
 # Project 3 "RSS Reader"
 
-URL: https://frontend-project-11-naaavi.vercel.app
+URL: frontend-project-11-metr.vercel.app
 
 ## About
 
